@@ -1,0 +1,76 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+@model FormModel;
+@{
+    
+}
+
+
+<form method="post" asp-controller="Form" asp-action="processForm"> 
+    <div id="first">
+        <label for="firstName">First Name</label>
+        <input type="text" asp-for="FirstName" id="firstName"/>
+    </div>
+    <br />
+    <div>
+        <label>Last Name</label>
+        <input type="text" asp-for="LastName" />
+    </div>
+    <br />
+    <div>
+        <label>Department</label>
+        <input type="text" asp-for="Department" />
+    </div>
+    <br />
+    <div>
+        <label>Yearly Estimated Salary</label>
+        <input type="number" asp-for="YearlyEstimatedSalary" />
+    </div>
+
+    <div id="experienceInput">
+        <label>Experience</label>
+        <button type="button" onclick="addExperience()">Add+</button>
+        <div id="additionalExperience">
+
+        </div>
+    </div>
+    
+    <div>
+        <button type="submit">Submit</button>
+    </div>
+
+</form>
+
+<template id="experienceInputTemplate">
+    <div>
+        <br />
+        <label>Company:</label>
+        <input type="text" asp-for="CompanyName"/>
+        <label>Years:</label>
+        <input type="number" asp-for="Years" />
+        <button onclick="removeExperience(this)">Remove</button>
+        <br />
+    </div>
+    
+</template>
+
+@section Scripts{
+    <script src="~/js/site.js"></script>
+    <script>
+        function addExperience(){
+            var element = document.getElementById("experienceInputTemplate").content.cloneNode(true);
+            var div = document.getElementById("additionalExperience");
+            div.appendChild(element);
+        }
+
+        function removeExperience(button){
+            var parentDiv = button.parentNode;
+            parentDiv.parentNode.removeChild(parentDiv);
+        }
+
+    </script>
+
+}
+        

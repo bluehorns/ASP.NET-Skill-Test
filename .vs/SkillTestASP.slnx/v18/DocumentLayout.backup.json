@@ -1,0 +1,320 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jyokp\\source\\repos\\SkillTestASP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEA88E8-4AAF-F94C-F3AD-2B0121F35B07}|SkillTestASP\\SkillTestASP.csproj|c:\\users\\jyokp\\source\\repos\\skilltestasp\\skilltestasp\\views\\sql\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DEA88E8-4AAF-F94C-F3AD-2B0121F35B07}|SkillTestASP\\SkillTestASP.csproj|solutionrelative:skilltestasp\\views\\sql\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEA88E8-4AAF-F94C-F3AD-2B0121F35B07}|SkillTestASP\\SkillTestASP.csproj|c:\\users\\jyokp\\source\\repos\\skilltestasp\\skilltestasp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DEA88E8-4AAF-F94C-F3AD-2B0121F35B07}|SkillTestASP\\SkillTestASP.csproj|solutionrelative:skilltestasp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEA88E8-4AAF-F94C-F3AD-2B0121F35B07}|SkillTestASP\\SkillTestASP.csproj|c:\\users\\jyokp\\source\\repos\\skilltestasp\\skilltestasp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DEA88E8-4AAF-F94C-F3AD-2B0121F35B07}|SkillTestASP\\SkillTestASP.csproj|solutionrelative:skilltestasp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEA88E8-4AAF-F94C-F3AD-2B0121F35B07}|SkillTestASP\\SkillTestASP.csproj|c:\\users\\jyokp\\source\\repos\\skilltestasp\\skilltestasp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DEA88E8-4AAF-F94C-F3AD-2B0121F35B07}|SkillTestASP\\SkillTestASP.csproj|solutionrelative:skilltestasp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEA88E8-4AAF-F94C-F3AD-2B0121F35B07}|SkillTestASP\\SkillTestASP.csproj|c:\\users\\jyokp\\source\\repos\\skilltestasp\\skilltestasp\\controllers\\sqlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEA88E8-4AAF-F94C-F3AD-2B0121F35B07}|SkillTestASP\\SkillTestASP.csproj|solutionrelative:skilltestasp\\controllers\\sqlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEA88E8-4AAF-F94C-F3AD-2B0121F35B07}|SkillTestASP\\SkillTestASP.csproj|c:\\users\\jyokp\\source\\repos\\skilltestasp\\skilltestasp\\models\\dtos\\salarygreaterthanestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEA88E8-4AAF-F94C-F3AD-2B0121F35B07}|SkillTestASP\\SkillTestASP.csproj|solutionrelative:skilltestasp\\models\\dtos\\salarygreaterthanestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEA88E8-4AAF-F94C-F3AD-2B0121F35B07}|SkillTestASP\\SkillTestASP.csproj|c:\\users\\jyokp\\source\\repos\\skilltestasp\\skilltestasp\\models\\dtos\\sqlcountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEA88E8-4AAF-F94C-F3AD-2B0121F35B07}|SkillTestASP\\SkillTestASP.csproj|solutionrelative:skilltestasp\\models\\dtos\\sqlcountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEA88E8-4AAF-F94C-F3AD-2B0121F35B07}|SkillTestASP\\SkillTestASP.csproj|c:\\users\\jyokp\\source\\repos\\skilltestasp\\skilltestasp\\models\\employee2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEA88E8-4AAF-F94C-F3AD-2B0121F35B07}|SkillTestASP\\SkillTestASP.csproj|solutionrelative:skilltestasp\\models\\employee2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEA88E8-4AAF-F94C-F3AD-2B0121F35B07}|SkillTestASP\\SkillTestASP.csproj|c:\\users\\jyokp\\source\\repos\\skilltestasp\\skilltestasp\\models\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEA88E8-4AAF-F94C-F3AD-2B0121F35B07}|SkillTestASP\\SkillTestASP.csproj|solutionrelative:skilltestasp\\models\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEA88E8-4AAF-F94C-F3AD-2B0121F35B07}|SkillTestASP\\SkillTestASP.csproj|c:\\users\\jyokp\\source\\repos\\skilltestasp\\skilltestasp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEA88E8-4AAF-F94C-F3AD-2B0121F35B07}|SkillTestASP\\SkillTestASP.csproj|solutionrelative:skilltestasp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEA88E8-4AAF-F94C-F3AD-2B0121F35B07}|SkillTestASP\\SkillTestASP.csproj|c:\\users\\jyokp\\source\\repos\\skilltestasp\\skilltestasp\\controllers\\formcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEA88E8-4AAF-F94C-F3AD-2B0121F35B07}|SkillTestASP\\SkillTestASP.csproj|solutionrelative:skilltestasp\\controllers\\formcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEA88E8-4AAF-F94C-F3AD-2B0121F35B07}|SkillTestASP\\SkillTestASP.csproj|c:\\users\\jyokp\\source\\repos\\skilltestasp\\skilltestasp\\controllers\\databasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEA88E8-4AAF-F94C-F3AD-2B0121F35B07}|SkillTestASP\\SkillTestASP.csproj|solutionrelative:skilltestasp\\controllers\\databasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEA88E8-4AAF-F94C-F3AD-2B0121F35B07}|SkillTestASP\\SkillTestASP.csproj|c:\\users\\jyokp\\source\\repos\\skilltestasp\\skilltestasp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEA88E8-4AAF-F94C-F3AD-2B0121F35B07}|SkillTestASP\\SkillTestASP.csproj|solutionrelative:skilltestasp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEA88E8-4AAF-F94C-F3AD-2B0121F35B07}|SkillTestASP\\SkillTestASP.csproj|c:\\users\\jyokp\\source\\repos\\skilltestasp\\skilltestasp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0DEA88E8-4AAF-F94C-F3AD-2B0121F35B07}|SkillTestASP\\SkillTestASP.csproj|solutionrelative:skilltestasp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEA88E8-4AAF-F94C-F3AD-2B0121F35B07}|SkillTestASP\\SkillTestASP.csproj|c:\\users\\jyokp\\source\\repos\\skilltestasp\\skilltestasp\\views\\form\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DEA88E8-4AAF-F94C-F3AD-2B0121F35B07}|SkillTestASP\\SkillTestASP.csproj|solutionrelative:skilltestasp\\views\\form\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEA88E8-4AAF-F94C-F3AD-2B0121F35B07}|SkillTestASP\\SkillTestASP.csproj|c:\\users\\jyokp\\source\\repos\\skilltestasp\\skilltestasp\\views\\database\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DEA88E8-4AAF-F94C-F3AD-2B0121F35B07}|SkillTestASP\\SkillTestASP.csproj|solutionrelative:skilltestasp\\views\\database\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__ProjectModels/Database2/True/SqlTable/dbo.Employee2.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEA88E8-4AAF-F94C-F3AD-2B0121F35B07}|SkillTestASP\\SkillTestASP.csproj|c:\\users\\jyokp\\source\\repos\\skilltestasp\\skilltestasp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0DEA88E8-4AAF-F94C-F3AD-2B0121F35B07}|SkillTestASP\\SkillTestASP.csproj|solutionrelative:skilltestasp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\jyokp\\source\\repos\\SkillTestASP\\SkillTestASP\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SkillTestASP\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\jyokp\\source\\repos\\SkillTestASP\\SkillTestASP\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SkillTestASP\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-07T05:18:16.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SQLCountDto.cs",
+              "DocumentMoniker": "C:\\Users\\jyokp\\source\\repos\\SkillTestASP\\SkillTestASP\\Models\\Dtos\\SQLCountDto.cs",
+              "RelativeDocumentMoniker": "SkillTestASP\\Models\\Dtos\\SQLCountDto.cs",
+              "ToolTip": "C:\\Users\\jyokp\\source\\repos\\SkillTestASP\\SkillTestASP\\Models\\Dtos\\SQLCountDto.cs",
+              "RelativeToolTip": "SkillTestASP\\Models\\Dtos\\SQLCountDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T15:32:01.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SalaryGreaterThanEstDto.cs",
+              "DocumentMoniker": "C:\\Users\\jyokp\\source\\repos\\SkillTestASP\\SkillTestASP\\Models\\Dtos\\SalaryGreaterThanEstDto.cs",
+              "RelativeDocumentMoniker": "SkillTestASP\\Models\\Dtos\\SalaryGreaterThanEstDto.cs",
+              "ToolTip": "C:\\Users\\jyokp\\source\\repos\\SkillTestASP\\SkillTestASP\\Models\\Dtos\\SalaryGreaterThanEstDto.cs",
+              "RelativeToolTip": "SkillTestASP\\Models\\Dtos\\SalaryGreaterThanEstDto.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T05:03:13.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SQLController.cs",
+              "DocumentMoniker": "C:\\Users\\jyokp\\source\\repos\\SkillTestASP\\SkillTestASP\\Controllers\\SQLController.cs",
+              "RelativeDocumentMoniker": "SkillTestASP\\Controllers\\SQLController.cs",
+              "ToolTip": "C:\\Users\\jyokp\\source\\repos\\SkillTestASP\\SkillTestASP\\Controllers\\SQLController.cs",
+              "RelativeToolTip": "SkillTestASP\\Controllers\\SQLController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIA5wBwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T14:06:59.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\jyokp\\source\\repos\\SkillTestASP\\SkillTestASP\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "SkillTestASP\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\jyokp\\source\\repos\\SkillTestASP\\SkillTestASP\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "SkillTestASP\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T14:50:39.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jyokp\\source\\repos\\SkillTestASP\\SkillTestASP\\Views\\SQL\\Index.cshtml",
+              "RelativeDocumentMoniker": "SkillTestASP\\Views\\SQL\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jyokp\\source\\repos\\SkillTestASP\\SkillTestASP\\Views\\SQL\\Index.cshtml",
+              "RelativeToolTip": "SkillTestASP\\Views\\SQL\\Index.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T14:06:33.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormController.cs",
+              "DocumentMoniker": "C:\\Users\\jyokp\\source\\repos\\SkillTestASP\\SkillTestASP\\Controllers\\FormController.cs",
+              "RelativeDocumentMoniker": "SkillTestASP\\Controllers\\FormController.cs",
+              "ToolTip": "C:\\Users\\jyokp\\source\\repos\\SkillTestASP\\SkillTestASP\\Controllers\\FormController.cs",
+              "RelativeToolTip": "SkillTestASP\\Controllers\\FormController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T18:40:56.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\jyokp\\source\\repos\\SkillTestASP\\SkillTestASP\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "SkillTestASP\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\jyokp\\source\\repos\\SkillTestASP\\SkillTestASP\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "SkillTestASP\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-07T05:18:10.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DatabaseController.cs",
+              "DocumentMoniker": "C:\\Users\\jyokp\\source\\repos\\SkillTestASP\\SkillTestASP\\Controllers\\DatabaseController.cs",
+              "RelativeDocumentMoniker": "SkillTestASP\\Controllers\\DatabaseController.cs",
+              "ToolTip": "C:\\Users\\jyokp\\source\\repos\\SkillTestASP\\SkillTestASP\\Controllers\\DatabaseController.cs",
+              "RelativeToolTip": "SkillTestASP\\Controllers\\DatabaseController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T14:06:49.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jyokp\\source\\repos\\SkillTestASP\\SkillTestASP\\Program.cs",
+              "RelativeDocumentMoniker": "SkillTestASP\\Program.cs",
+              "ToolTip": "C:\\Users\\jyokp\\source\\repos\\SkillTestASP\\SkillTestASP\\Program.cs",
+              "RelativeToolTip": "SkillTestASP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T14:50:40.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Salary.cs",
+              "DocumentMoniker": "C:\\Users\\jyokp\\source\\repos\\SkillTestASP\\SkillTestASP\\Models\\Salary.cs",
+              "RelativeDocumentMoniker": "SkillTestASP\\Models\\Salary.cs",
+              "ToolTip": "C:\\Users\\jyokp\\source\\repos\\SkillTestASP\\SkillTestASP\\Models\\Salary.cs",
+              "RelativeToolTip": "SkillTestASP\\Models\\Salary.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T04:09:00.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee2.cs",
+              "DocumentMoniker": "C:\\Users\\jyokp\\source\\repos\\SkillTestASP\\SkillTestASP\\Models\\Employee2.cs",
+              "RelativeDocumentMoniker": "SkillTestASP\\Models\\Employee2.cs",
+              "ToolTip": "C:\\Users\\jyokp\\source\\repos\\SkillTestASP\\SkillTestASP\\Models\\Employee2.cs",
+              "RelativeToolTip": "SkillTestASP\\Models\\Employee2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T05:16:26.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\jyokp\\source\\repos\\SkillTestASP\\SkillTestASP\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SkillTestASP\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\jyokp\\source\\repos\\SkillTestASP\\SkillTestASP\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SkillTestASP\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T14:07:16.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jyokp\\source\\repos\\SkillTestASP\\SkillTestASP\\appsettings.json",
+              "RelativeDocumentMoniker": "SkillTestASP\\appsettings.json",
+              "ToolTip": "C:\\Users\\jyokp\\source\\repos\\SkillTestASP\\SkillTestASP\\appsettings.json",
+              "RelativeToolTip": "SkillTestASP\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-07T04:48:46.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jyokp\\source\\repos\\SkillTestASP\\SkillTestASP\\Views\\Form\\Index.cshtml",
+              "RelativeDocumentMoniker": "SkillTestASP\\Views\\Form\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jyokp\\source\\repos\\SkillTestASP\\SkillTestASP\\Views\\Form\\Index.cshtml",
+              "RelativeToolTip": "SkillTestASP\\Views\\Form\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T18:40:27.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jyokp\\source\\repos\\SkillTestASP\\SkillTestASP\\Views\\Database\\Index.cshtml",
+              "RelativeDocumentMoniker": "SkillTestASP\\Views\\Database\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jyokp\\source\\repos\\SkillTestASP\\SkillTestASP\\Views\\Database\\Index.cshtml",
+              "RelativeToolTip": "SkillTestASP\\Views\\Database\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T14:08:04.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "dbo.Employee2.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/Database2/True/SqlTable/dbo.Employee2.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/Database2/True/SqlTable/dbo.Employee2.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-10-06T16:45:42.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\jyokp\\source\\repos\\SkillTestASP\\SkillTestASP\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "SkillTestASP\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\jyokp\\source\\repos\\SkillTestASP\\SkillTestASP\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "SkillTestASP\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAuwCYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-10-06T14:15:32.275Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

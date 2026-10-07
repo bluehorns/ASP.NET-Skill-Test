@@ -1,0 +1,111 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    List<SkillTestASP.Models.Dtos.SQLCountDto> countDataList = (List<SkillTestASP.Models.Dtos.SQLCountDto>)ViewData["departmentCountData"];
+
+    List<SkillTestASP.Models.Dtos.SalaryGreaterThanEstDto> salaryDataList = (List<SkillTestASP.Models.Dtos.SalaryGreaterThanEstDto>)ViewData["salaryData"];
+
+    List<Employee2> transferDataList = (List<Employee2>)ViewData["transferData"];
+
+}
+
+<div>
+    
+    <div>
+        <p>Write a SQL query to get number of employees working in each Department.</p>
+        <pre class="code-block">
+        <code>
+            Select * from Employee COUNT(id) GROUP BY department
+        </code>
+        </pre>
+        <table>
+            <thead>
+                <tr>
+                    <th>Department</th>
+                    <th>Count</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var data in countDataList)
+                {
+                    <tr>
+                        <td>@data.Department</td>
+                        <td>@data.Count</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+    <hr />
+    <br />
+        
+    <div>
+        <p>Write a SQL query to insert employees having no experience to Database2 in Employee Table</p>
+        <pre class="code-block">
+        <code>
+            INSERT INTO Database2.dbo.Employee2(Id,Employee) SELECT DISTINCT Employee.Id, Employee.Name FROM Employee 
+            RIGHT JOIN Experience ON Employee.Id = Experience.EmployeeId
+        </code>
+        </pre>
+        <table>
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>Name</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var data in transferDataList)
+                {
+                    <tr>
+                        <td>@data.Id</td>
+                        <td>@data.Employee</td>
+                        
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+    
+    
+    <hr />
+    <br />
+
+    <div>
+        <p> Write a SQL query to find those employees who have earned more than Estimated Salary.</p>
+        <pre class="code-block">
+        <code>
+            SELECT Id, Name, Total_Salary, YearlyEstimatedSalary FROM Employee AS e
+            FULL JOIN
+            (SELECT EmployeeId, SUM(SALARY) AS Total_Salary FROM Salary GROUP BY EmployeeId ) AS s
+            ON e.Id = s.EmployeeId
+            WHERE Total_Salary > YearlyEstimatedSalary
+
+        </code>
+        </pre>
+        <table>
+            <thead>
+                <tr>
+                    <th>Id
+                    <th>Name</th>
+                    <th>Estimated Salary</th>
+                    <th>Total Salary</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var data in salaryDataList)
+                {
+                    <tr>
+                        <td>@data.Id</td>
+                        <td>@data.Name</td>
+                        <td>@data.YearlyEstimatedSalary</td>
+                        <td>@data.Total_Salary</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+    
+</div>

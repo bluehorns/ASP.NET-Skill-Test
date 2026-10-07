@@ -1,0 +1,61 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    List<Employee> EmployeeList = (List<Employee>)ViewData["EmployeeData"];
+}
+<link href="~/css/site.css" rel="stylesheet" />
+
+
+
+<h1>Employees</h1>
+
+
+<div class="table-wrapper">
+    <table class="employee-table">
+        <thead>
+            <tr>
+                <th>S.N</th>
+                <th>Name</th>
+                <th>Department</th>
+                <th>Yearly Est. <br>Salary</th>
+                <th>Created Date</th>
+                <th>Experience</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var employee in EmployeeList)
+            {
+                 <tr>
+                    <td>@employee.Id</td>
+                    <td>@employee.Name</td>
+                    <td>@employee.Department</td>
+                    <td>@employee.YearlyEstimatedSalary</td>
+                    <td>@employee.CreatedDate</td>
+                    <td>
+                        <table>
+                            @foreach (var experience in employee.Experiences)
+                            {
+                                <tr>
+                                    <td>@experience.Years years at @experience.CompanyName</td>
+                                </tr>
+                            }
+                        </table>
+                    </td>
+                    
+                    </tr>
+            }
+            
+        </tbody>   
+    </table>
+</div>
+
+
+
+@section Scripts{
+    <script src="~/js/site.js"></script>
+    <script>
+      
+        
+    </script>
+}
